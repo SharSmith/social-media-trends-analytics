@@ -1,4 +1,4 @@
-# Viral Social Media Trends Analysis
+# Social Media Trends Analysis
 
 ## Overview
 This repository explores viral social media trends using a structured, business-focused analytics approach. The goal is to understand how **platform**, **content type**, **region**, and **hashtags** relate to engagement outcomes, and to translate patterns into actionable insights.
